@@ -2,6 +2,9 @@
 - _**park_intro_anim.ma**_ consists of the character animations for characters White and Black during the first phase od _**scene_park.mb**_.
 
 ## References
+
+<details><summary>Image Files</summary>
+  
 - __FILE__: cookie_texture.jpg
   - __Credit__:	"Cookie Texture" by designercrow DeviantArt.com
   - __Source__: https://www.deviantart.com/designercow/art/Free-Cookie-Texture-301630444
@@ -9,7 +12,11 @@
 - __FILE__:	door_1.PNG
   - __Credit__:	"Door Texture" by TIM-DM of DeviantArt.com
   - __Source__:	https://www.deviantart.com/tim-dm/art/Door-Texture-3-593831523
+</details>
 
+  
+<details><summary>Audio Files</summary>
+  
 - __FILE__:	bg_day.WAV
   - __Credit__:	"just birds.wav" by LittleBroJay of Freesound.org
   - __Source__: https://freesound.org/people/Littlebrojay/sounds/195437/
@@ -57,3 +64,4 @@
 - __FILE__:	light_buzz.WAV
   - __Credit__:	"Buzzing, Electric Lamp, A.wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org
   - __Source__:	https://freesound.org/people/InspectorJ/sounds/415873/
+</details>
