@@ -9,7 +9,7 @@ images/class_renders/
 images/home_renders/
 images/park_renders/
 
-# Ignore render files and video outputs.
+# Ignore render files, video outputs and temp files.
+*.mayaSwatches
 *.exr
 *.mp4
-*.avi
