@@ -1,15 +1,73 @@
-![alt text](https://licensebuttons.net/l/by/4.0/88x31.png "Attribution 4.0")
+# Not Like Us.
+###### An animated short by Cong (Cole) Trinh.
+[[Video Link]](https://youtu.be/R7hwssS_6vs)<br />
+[![IMAGE ALT TEXT](https://i.ytimg.com/vi/uUWdeZWEOic/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAyQQcNTeptermlEvjyp9C98pDRug)](https://youtu.be/R7hwssS_6vs "Not Like Us. (Animated-Short)")
+## Attribution
+![alt text](https://licensebuttons.net/l/by/4.0/88x31.png "Attribution 4.0")<br>
 "Not Like Us" by Cong (Cole) Trinh is licensed under a
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/ "CC License 4.0"). <br>
-Based on a work at github.com/c-trinh/maya_rndr-2019.
+Based on a work at [github.com/c-trinh/maya_rndr-2019](github.com/c-trinh/maya_rndr-2019).
+- Feel free to use my models and study over my work.<br>
+_However_, I ask that you credit the 3D models (as well as other obvious assets) which originated from me.
+  - Include the file name, followed by my name/studio (Cole Trinh / GOMiCHO Studios respectively)<br>
+or you may link to this repo.
+- __Format Examples__:
+  - _"bench.mb" model by Cole Trinh_
+  - _"bench.mb" model from github.com/c-trinh/maya_rndr-2019_
+- While I am offering my assets for public use, **DO NOT** plagiarize my work and pass it off as your own. I am offering this repo as reference for aspiring animators and enthusiasts within the animation community.
+- If you wish to use certain **sounds/images**, please refer to "References" section below for the original source.
 
-## Attribution
-- Feel free to use my models and study over my work. However, I ask that you credit the 3D models I made.
-- Either include the model name followed by my name or studio (Cole Trinh / GOMiCHO Studios), or simply link to this repo.
-- Example: "desk.mb" model by Cole Trinh OR github.com/c-trinh/maya_rndr-2019
-- If you wish to use certain sounds/images, please refer to "References" below for the initial source.
+<details><summary>FILES UNDER ATTRIBUTION</summary>
+
+<details><summary>Models [Props]</summary>
+
+- park_intro_anim.ma
+- scene_class.mb
+- scene_home.mb
+- scene_park.mb
+- ashtray.mb
+- bench.mb
+- bottle.mb
+- chair.mb
+- cig.mb
+- couch.mb
+- desk.mb
+- drink.mb
+- fence.ma
+- flower.mb
+- heart.mb
+- heart_broken.mb
+- lamp.mb
+- table.mb
+- tree.mb
+- tv.mb
+- vase.mb
+</details>
+  
+<details><summary>Models [Characters / Riggings]</summary>
+
+- white_1_child.mb
+- white_2_teen.mb
+- white_3_adult.mb
+- black.mb
+- red.mb
+- grey.mb
+- father.mb
+- mother.mb
+
+</details>
+
+<details><summary>Images</summary>
+
+- red_face.png
+- red_face_plain.png
+- red_face_sad.png
+- family_portrait.png
+</details>
+</details>
 
 ## Notes
+- _**scene_class**_, _**scene_home**_ and _**scene_park**_ references the models within the _**models/**_ directory.
 - _**park_intro_anim.ma**_ consists of the character animations during the intial phase of _**scene_park.mb**_.
 
 ## References
@@ -17,7 +75,7 @@ Based on a work at github.com/c-trinh/maya_rndr-2019.
 <details><summary>Image Files</summary>
   
 - __FILE__: cookie_texture.jpg
-  - __Credit__:	"Cookie Texture" by designercrow DeviantArt.com
+  - __Credit__:	"Cookie Texture" by designercrow of DeviantArt.com
   - __Source__: https://www.deviantart.com/designercow/art/Free-Cookie-Texture-301630444
 
 - __FILE__:	door_1.PNG
