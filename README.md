@@ -7,6 +7,8 @@
 _"Not Like Us" by Cong (Cole) Trinh is licensed under a
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/ "CC License 4.0"). <br>
 Based on a work at [github.com/c-trinh/maya_rndr-2019](https://github.com/c-trinh/maya_rndr-2019)._
+<details><summary>HOW TO USE</summary>
+
 - Feel free to use my models and study over my work.<br>
 _However_, I ask that you credit the 3D models (as well as other obvious assets) which originated from me.
   - Include the file name, followed by my name/studio (Cole Trinh / GOMiCHO Studios respectively)<br>
@@ -15,11 +17,12 @@ or you may link to this repo.
   - _"bench.mb" model by Cole Trinh_
   - _"bench.mb" model from github.com/c-trinh/maya_rndr-2019_
 - While I am offering my assets for public use, **DO NOT** plagiarize my work and pass it off as your own. I am offering this repo as reference for aspiring animators and enthusiasts within the animation community.
-- If you wish to use certain **sounds/images**, please refer to "References" section below for the original source.
+
+</details>
 
 <details><summary>FILES UNDER ATTRIBUTION</summary>
 
-<details><summary>Models [Props]</summary>
+<details><summary>Models (Props)</summary>
 
 - park_intro_anim.ma
 - scene_class.mb
@@ -44,7 +47,7 @@ or you may link to this repo.
 - vase.mb
 </details>
   
-<details><summary>Models [Characters / Riggings]</summary>
+<details><summary>Models (Characters / Riggings)</summary>
 
 - white_1_child.mb
 - white_2_teen.mb
@@ -65,6 +68,8 @@ or you may link to this repo.
 - family_portrait.png
 </details>
 </details>
+
+- If you wish to use certain **sounds/images** not originating from me, please refer to the "References" section below for the original source.
 
 ## Notes
 - _**scene_class**_, _**scene_home**_ and _**scene_park**_ references the models within the _**models/**_ directory.
