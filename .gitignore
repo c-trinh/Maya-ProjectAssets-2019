@@ -1,0 +1,15 @@
+# Ignore Adobe temp files.
+Adobe Premiere Pro Audio Previews/
+Adobe Premiere Pro Auto-Save/
+Adobe Premiere Pro Captured Audio/
+Adobe Premiere Pro Video Previews/
+
+# Ignore render folders.
+images/class_renders/
+images/home_renders/
+images/park_renders/
+
+# Ignore render files and video outputs.
+*.exr
+*.mp4
+*.avi
