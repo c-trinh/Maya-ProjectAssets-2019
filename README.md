@@ -1,7 +1,7 @@
 # Not Like Us.
 ###### An animated short by Cong (Cole) Trinh.
-[[Video Link]](https://youtu.be/R7hwssS_6vs)<br />
-[![IMAGE ALT TEXT](https://i.ytimg.com/vi/uUWdeZWEOic/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAyQQcNTeptermlEvjyp9C98pDRug)](https://youtu.be/R7hwssS_6vs "Not Like Us. (Animated-Short)")
+[[Video Link]](https://youtu.be/uUWdeZWEOic)<br />
+[![IMAGE ALT TEXT](https://i.ytimg.com/vi/uUWdeZWEOic/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAyQQcNTeptermlEvjyp9C98pDRug)](https://youtu.be/uUWdeZWEOic "Not Like Us. (Animated-Short)")
 ## Attribution
 ![alt text](https://licensebuttons.net/l/by/4.0/88x31.png "Attribution 4.0")<br>
 "Not Like Us" by Cong (Cole) Trinh is licensed under a
