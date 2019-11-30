@@ -6,7 +6,7 @@
 ![alt text](https://licensebuttons.net/l/by/4.0/88x31.png "Attribution 4.0")<br>
 _"Not Like Us" by Cong (Cole) Trinh is licensed under a
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/ "CC License 4.0"). <br>
-Based on a work at [github.com/c-trinh/maya_rndr-2019](github.com/c-trinh/maya_rndr-2019)._
+Based on a work at [github.com/c-trinh/maya_rndr-2019](https://github.com/c-trinh/maya_rndr-2019)._
 - Feel free to use my models and study over my work.<br>
 _However_, I ask that you credit the 3D models (as well as other obvious assets) which originated from me.
   - Include the file name, followed by my name/studio (Cole Trinh / GOMiCHO Studios respectively)<br>
