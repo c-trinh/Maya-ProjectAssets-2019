@@ -6,7 +6,7 @@
 ![alt text](https://licensebuttons.net/l/by/4.0/88x31.png "Attribution 4.0")<br>
 _"Not Like Us" by Cong (Cole) Trinh is licensed under a
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/ "CC License 4.0"). <br>
-Based on a work at [github.com/c-trinh/maya_rndr-2019](https://github.com/c-trinh/maya_rndr-2019)._
+Based on a work at [github.com/c-trinh/Maya-ProjectAssets-2019](https://github.com/c-trinh/maya_rndr-2019)._
 <details><summary>HOW TO USE</summary>
 
 - Feel free to use my models and study over my work.<br>
@@ -15,7 +15,7 @@ _However_, I ask that you credit the 3D models (as well as other obvious assets)
 or you may link to this repo.
 - __Format Examples__:
   - _"bench.mb" model by Cole Trinh_
-  - _"bench.mb" model from github.com/c-trinh/maya_rndr-2019_
+  - _"bench.mb" model from https://github.com/c-trinh/Maya-ProjectAssets-2019
 - While I am offering my assets for public use, **DO NOT** plagiarize my work and pass it off as your own. I am offering this repo as reference for aspiring animators and enthusiasts within the animation community.
 
 </details>
